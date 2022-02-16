@@ -15,14 +15,14 @@ After much persuasion from Fiora, I have decided to finally venture into the wor
 <br/>
 **O(n)** Linear Time - for loops, while loops through n items<br/>
 <br/>
-**O(n log(n))** Log Linear Time- usually sorting operations<br/>
+**O(n log(n))** Log Linear Time - usually sorting operations<br/>
 <br/>
-**O(n^2)** Quadratic Time- every element in a collection needs to be compared to ever other element. Two
+**O(n^2)** Quadratic Time - every element in a collection needs to be compared to ever other element. Two
 nested loops<br/>
 <br/>
-**O(2^n)** Exponential Time- recursive algorithms that solves a problem of size N<br/>
+**O(2^n)** Exponential Time - recursive algorithms that solves a problem of size N<br/>
 <br/>
-**O(n!)** Factorial Time- you are adding a loop for every element<br/>
+**O(n!)** Factorial Time - you are adding a loop for every element<br/>
 <br/>
 **Iterating through half a collection is still O(n)<br/>
 Two separate collections: O(a * b)**
