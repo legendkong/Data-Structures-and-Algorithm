@@ -1,3 +1,8 @@
+//Question : A collection of numbers; take this collection of numbers and find a matching pair that is equal to the sum(8)
+//In short, compare a pair of numbers inside the array and return whether there is any pair that sums up to 8
+[1,2,3,9] Sum = 8
+[1,2,4,4] Sum = 8
+
 
 
 // Naive approach (Brute force)
